@@ -21,13 +21,18 @@ I love build meaningful Applications.
 | **Project‑B** | Five Star Business Finance |
 | **Project‑C** | Personal blog / portfolio (deployed) |
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anbudhilip&label=Profile%20views&color=0e75b6&style=flat" alt="Anbudhilip" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anbudhilip" alt="Anbudhilip" /></a> </p>
+
+
 ## 📚 Learning & Interests  
 - Currently learning: Azure services, cloud‑native architecture  
 - Interested in open-source, clean code, software design  
 
 ## 📫 Contact / Find me  
 - LinkedIn: 
-- Email: anbudhilipdotnetdeveloper@gmail.com 
+- Email: anbudhilipdotnetdeveloper@gmail.com
 
----
+
 
