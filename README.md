@@ -1,8 +1,9 @@
 # வணக்கம் (Hello)👋, I'm Dk Anbuvel
 
 ## 🔭 About Me  
-I’m a .NET developer with 2 years of experience.  
-I love building meaningfull Applications.
+I’m a .NET developer with ~2 years of experience.  
+I’m currently pursuing **MCA** at Madras University, Chennai.  
+I love build meaningful Applications.
 
 ## 🛠️ Skills & Tech Stack  
 - C#, .NET 6/7/8  
@@ -25,7 +26,7 @@ I love building meaningfull Applications.
 - Interested in open-source, clean code, software design  
 
 ## 📫 Contact / Find me  
-- LinkedIn: [YourLinkedInURL]  
+- LinkedIn: 
 - Email: anbudhilipdotnetdeveloper@gmail.com 
 
 ---
