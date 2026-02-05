@@ -1,7 +1,6 @@
 # வணக்கம் (Hello)👋, I'm Dk Anbuvel
 
 ## 🔭 About Me  
-I’m a .NET developer with 2 years of experience.  
 I love build meaningful Applications.
 
 ## 🛠️ Skills & Tech Stack  
